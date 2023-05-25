@@ -1,6 +1,8 @@
 # SQL-Bacic-to-Intermediate-level-project
 SQL project on Gomato data analysis 
 
+Tool use- **MY SQL**
+
 
 create database if not exists gomato
 
